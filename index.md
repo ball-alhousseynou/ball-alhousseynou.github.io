@@ -53,10 +53,10 @@
 
 
 ---
-## Uber Nairobi Ambulance Perambulation Challenge
+## Uber Nairobi Ambulance Perambulation
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ambulance_perambulation.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Uber-Nairobi-Ambulance-Perambulation-Challenge)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Uber-Nairobi-Ambulance-Perambulation)
 
 <div style="text-align: justify">The aim of this challenge is to place six virtual ambulances around the city of Nairobi, moving them around throughout the day with the goal of minimising the distance travelled when responding to crashes during the test period. We submit a schedule of six ambulances every 3 hours. For each crash recorded, we find the distance between that crash and the nearest ambulance according to our schedule. </div>
 
