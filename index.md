@@ -8,7 +8,7 @@
 <br>
 <em>Technologies: Python, Sentence transformer, Elasticsearch
 <!-- <img src="images/bert.png" width="400" height="200" hspace="10"/> <img src="images/elasticsearch.png" width="400" height="200"/>  -->
-<center><img src="images/search_query.png" width="700" height="350"/> </center>
+<center><img src="images/search_query.png" /> </center>
 
 
 ---
