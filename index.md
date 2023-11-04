@@ -3,7 +3,7 @@
 ## Semantic Search
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/semantic_search.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Semantic-Search)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Semantic-Search)
 
 
 <div style="text-align: justify">This project shows how to combine sentence transformers(SBERT) and elasticsearch to find similar papers. SBERT give the embedding(dense vectors) for each papers. ElasticSearch store the dense vectors and use them for document scoring. As corpus, we use all EMNLP publications from 2016 - 2018. </div>
@@ -17,7 +17,7 @@
 ## Auto Insurance
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/autoinsurance.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Kaggle-Challenge-Auto-Insurance)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Kaggle-Challenge-Auto-Insurance)
 
 
 <div style="text-align: justify">Based on information about cars, we predict the probability of crash. General description and data are available on <a href="https://www.kaggle.com/competitions/auto-insurance-fall-2017">Kaggle</a>. The dataset has a lot of features. This gives interesting possibilities for feature transformation and data visualization.</div>
@@ -29,7 +29,7 @@
 ---
 ## Facebook Scraper
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Facebook-Scraper)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Facebook-Scraper)
 
 <div style="text-align: justify">In this project, I collect data from Facebook. We focus here on page audiences. In other words, we will get the likes and followers of each Facebook page.</div>
 
@@ -42,7 +42,7 @@
 ---
 ## Instagram Scraper
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Instagram-Scraper)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Instagram-Scraper)
 
 <div style="text-align: justify">Instagram provides an easy API to collect data without login. For each Instagram page, we will collect the followers, following, posts and biography.</div>
 
@@ -56,7 +56,7 @@
 ## Uber Nairobi Ambulance Perambulation
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ambulance_perambulation.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Uber-Nairobi-Ambulance-Perambulation)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Uber-Nairobi-Ambulance-Perambulation)
 
 <div style="text-align: justify">The aim of this challenge is to place six virtual ambulances around the city of Nairobi, moving them around throughout the day with the goal of minimising the distance travelled when responding to crashes during the test period. We submit a schedule of six ambulances every 3 hours. For each crash recorded, we find the distance between that crash and the nearest ambulance according to our schedule. </div>
 
@@ -69,7 +69,7 @@
 ## Emergency Housing
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/emergencyhousing.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/emergency-housing)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/emergency-housing)
 
 <div style="text-align: justify">The datasets are from the competition hosted in 2019 by <a href="https://www.datascience-olympics.com/">datascience olympics</a>. A tutorial notebook which included the custom metric competition_scorer and a baseline submission using a logistic regression model. I trained an XGBoost model.</div>
 
