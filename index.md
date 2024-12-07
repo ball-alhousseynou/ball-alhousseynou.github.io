@@ -1,5 +1,17 @@
 # Portfolio
 ---
+## Ecommerce
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Ecommerce)
+
+
+<div style="text-align: justify">This project involves classifying products into one of four categories: Electronics, Household, Books, and Clothing & Accessories. The dataset used for this task contains e-commerce text data specifically designed for classification purposes. </div>
+<br>
+<em>Technologies: Python, Bert, LinearSVC, MultinomialNB, LogisticRegression
+<center><img src="images/ecommerce.jpg" /> </center>
+
+
+---
 ## Semantic Search
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/semantic_search.html)
@@ -8,8 +20,7 @@
 
 <div style="text-align: justify">This project shows how to combine sentence transformers(SBERT) and elasticsearch to find similar papers. SBERT give the embedding(dense vectors) for each papers. ElasticSearch store the dense vectors and use them for document scoring. As corpus, we use all EMNLP publications from 2016 - 2018. </div>
 <br>
-<em>Technologies: Python, Sentence transformer, Elasticsearch
-<!-- <img src="images/bert.png" width="400" height="200" hspace="10"/> <img src="images/elasticsearch.png" width="400" height="200"/>  -->
+<em>Technologies: Python, SBert, Sentence transformer, Elasticsearch
 <center><img src="images/search_query.png" /> </center>
 
 
@@ -49,20 +60,6 @@
 <br>
 <em>Technologies: Python, API Instagram
 <center><img src="images/insta.jpg" width="700" height="350"></center>
-<br>
-
-
----
-## Uber Nairobi Ambulance Perambulation
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ambulance_perambulation.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Uber-Nairobi-Ambulance-Perambulation)
-
-<div style="text-align: justify">The aim of this challenge is to place six virtual ambulances around the city of Nairobi, moving them around throughout the day with the goal of minimising the distance travelled when responding to crashes during the test period. We submit a schedule of six ambulances every 3 hours. For each crash recorded, we find the distance between that crash and the nearest ambulance according to our schedule. </div>
-
-<br>
-<em>Technologies: Python, Fastai, Sklearn, Clustering
-<center><img src="images/ambulance.png" width="700" height="500"/></center>
 <br>
 
 ---
