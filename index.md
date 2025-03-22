@@ -56,31 +56,6 @@ The system utilizes <strong>Scrapy</strong> for data extraction and <strong>Pref
 <center><img src="images/passlogement.png" width="700" height="350"/></center>
 
 ---
-## Facebook Scraper
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Facebook-Scraper)
-
-<div style="text-align: justify">In this project, I collect data from Facebook. I focus here on page audiences. In other words, I will get the likes and followers of each Facebook page.</div>
-
-<br>
-<em>Technologies: Python, Selenium
-<center><img src="images/facebook.jpg" width="700" height="350"></center>
-<br>
-
-
----
-## Instagram Scraper
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Instagram-Scraper)
-
-<div style="text-align: justify">Instagram provides an easy API to collect data without login. For each Instagram page, I will collect the followers, following, posts and biography.</div>
-
-<br>
-<em>Technologies: Python, API Instagram
-<center><img src="images/insta.jpg" width="700" height="350"></center>
-<br>
-
----
 ## Emergency Housing
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/emergencyhousing.html)
