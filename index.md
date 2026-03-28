@@ -10,7 +10,7 @@ Bienvenue sur mon portfolio Data Science. Je suis un ingénieur Data Science ave
 
 ## Gemini Document Analysis
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/gemini-document-analysis)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/gemini-document-analysis)
 
 <div style="text-align: justify">Pipeline end-to-end pour l’analyse de documents structurés et non structurés avec Gemini, OCR et extraction d’entités (NER). Validation de données et génération de résumés métiers pour accélérer les workflows compliance/finance.</div>
 
@@ -27,7 +27,7 @@ Bienvenue sur mon portfolio Data Science. Je suis un ingénieur Data Science ave
 ## Semantic Search
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/semantic_search.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Semantic-Search)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Semantic-Search)
 
 <div style="text-align: justify">Recherche sémantique sur corpus EMNLP 2016-18 avec embeddings SBERT et ElasticSearch Dense Vector. Évaluations précises sur pertinence via métriques MRR/Recall@k.</div>
 
@@ -40,7 +40,7 @@ Bienvenue sur mon portfolio Data Science. Je suis un ingénieur Data Science ave
 ## Auto Insurance
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/autoinsurance.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Kaggle-Challenge-Auto-Insurance)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Kaggle-Challenge-Auto-Insurance)
 
 <div style="text-align: justify">Prédiction du taux de sinistralité sur dataset Kaggle. Feature engineering avancé, sélection automatique et comparaison de modèles (Logistic Regression, Random Forest, XGBoost).</div>
 
@@ -53,7 +53,7 @@ Bienvenue sur mon portfolio Data Science. Je suis un ingénieur Data Science ave
 ## Uber Nairobi Ambulance Perambulation
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ambulance_perambulation.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Uber-Nairobi-Ambulance-Perambulation)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Uber-Nairobi-Ambulance-Perambulation)
 
 <div style="text-align: justify">Optimisation de la position des ambulances via clustering et simulation de distance. Objectif : minimiser le temps de réponse aux accidents à Nairobi.</div>
 
@@ -66,7 +66,7 @@ Bienvenue sur mon portfolio Data Science. Je suis un ingénieur Data Science ave
 ## Emergency Housing
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/emergencyhousing.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/emergency-housing)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/emergency-housing)
 
 <div style="text-align: justify">Projet compétition Data Science Olympics 2019 : création d’un pipeline d’analyse des données et modèle XGBoost pour prédiction binaire.</div>
 
@@ -79,10 +79,10 @@ Bienvenue sur mon portfolio Data Science. Je suis un ingénieur Data Science ave
 ## Scraping & Data Engineering
 
 ### Facebook Scraper
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Facebook-Scraper)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Facebook-Scraper)
 
 ### Instagram Scraper
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/balldatascientist/Instagram-Scraper)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ball-alhousseynou/Instagram-Scraper)
 
 <div style="text-align: justify">Collecte de données massives via API/Selenium et pipelines de nettoyage structurés pour analyses downstream.</div>
 
