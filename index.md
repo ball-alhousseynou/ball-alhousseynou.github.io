@@ -18,7 +18,7 @@ Bienvenue sur mon portfolio Data Science. Je suis un ingénieur Data Science ave
 - Extraction de valeur, normalisation de formats et enrichissement par modèle de langage
 - Dashboard de KPI de précision et taux de couverture
 
-<em>Technologies : Python, OCR (Tesseract/DocTR), Transformers (Gemini), FastAPI, Docker, Kibana</em>
+<em>Technologies : Python, OCR (Tesseract/DocTR), Gemini, Vertex AI</em>
 
 <center><img src="images/gemini_document_analysis.jpg" width="700"/></center>
 
@@ -57,7 +57,7 @@ Bienvenue sur mon portfolio Data Science. Je suis un ingénieur Data Science ave
 
 <div style="text-align: justify">Optimisation de la position des ambulances via clustering et simulation de distance. Objectif : minimiser le temps de réponse aux accidents à Nairobi.</div>
 
-<em>Technologies : Python, Fastai, Scikit-Learn</em>
+<em>Technologies : Python, Scikit-Learn, Geopandas</em>
 
 <center><img src="images/ambulance.png" width="700" height="500"/></center>
 
